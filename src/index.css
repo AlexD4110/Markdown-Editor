@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #add8e6; /* Light blue background */
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.bg {
+  background-color: #94bfb0; /* Aquamarine background */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.p-4 {
+  padding: 1.5rem;
+}
+
+/* Textarea Styles */
+.textarea {
+  width: 100%;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* Markdown Preview Styles */
+#preview {
+  background-color: #f8f8f8;
+  padding: 40px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+h1, h3 {
+  margin: 0;
+  padding: 10px 0;
+  color: #333;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+}
+
+/* Additional styles for markdown content */
+pre {
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+code {
+  background-color: #eee;
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-family: monospace;
+}
